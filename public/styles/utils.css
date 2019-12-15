@@ -1,0 +1,153 @@
+/* defaults */
+
+body {
+  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  color: #4d4d4d;
+  line-height: 1.5;
+  background-color: #FEFEFE;
+  width: 100%;
+  margin: 0;
+}
+
+.container {
+  width: 95%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+h2 {
+  font-family: 'Nunito', sans-serif;
+  font-weight: normal;
+  font-size: 22px;
+}
+
+/* fonts */
+
+.font-weight-bold {
+  font-weight: bold;
+}
+
+/* image sizes */
+
+.image-sml {
+  width: 35px;
+}
+
+.image-med {
+  width: 50px;
+}
+
+.image-lrg {
+
+}
+
+.image-circle {
+  border-radius: 100px;
+}
+
+/* positioning */
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.float-left {
+  float: left;
+}
+
+.float-right {
+  float: right;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.top-sml {
+  position: relative;
+  top: 15px;
+}
+
+/* margin */
+
+.margin-left-sml {
+  margin-left: 15px;
+}
+
+.margin-left-med {
+  margin-left: 35px;
+}
+
+.margin-right-sml {
+  margin-right: 15px;
+}
+
+.margin-right-med {
+  margin-right: 35px;
+}
+
+.margin-top-sml {
+  margin-top: 15px;
+}
+
+.margin-top-med {
+  margin-top: 35px;
+}
+
+.margin-bottom-sml {
+  margin-bottom: 15px;
+}
+
+.margin-bottom-med {
+  margin-bottom: 35px;
+}
+
+/* padding */
+
+.padding-left-sml {
+  padding-left: 15px;
+}
+
+.padding-left-med {
+  padding-left: 35px;
+}
+
+.padding-right-sml {
+  padding-right: 15px;
+}
+
+.padding-right-med {
+  padding-right: 35px;
+}
+
+.padding-top-sml {
+  padding-top: 15px;
+}
+
+.padding-top-med {
+  padding-top: 35px;
+}
+
+.padding-bottom-sml {
+  padding-bottom: 15px;
+}
+
+.padding-bottom-med {
+  padding-bottom: 35px;
+}
+
+/* flexbox */
+
+.grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
