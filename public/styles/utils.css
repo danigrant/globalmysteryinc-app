@@ -27,6 +27,10 @@ h2 {
   font-size: 22px;
 }
 
+.material-icons {
+  width: 24px;
+}
+
 /* fonts */
 
 .font-weight-bold {
