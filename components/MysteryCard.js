@@ -11,7 +11,7 @@ const MysteryCard = props => (
         <div className="video-controls">
           <div className="video-controls--div">
           <span className="play-button">
-            <img src="https://d3el26csp1xekx.cloudfront.net/static/assets/video-cards-2.0/play.svg" alt="play icon" class="_3i_XRXKYAQRX0dKnCJx-Qt" />
+            <img src="https://d3el26csp1xekx.cloudfront.net/static/assets/video-cards-2.0/play.svg" alt="play icon" />
           </span>
           <span className="video-length">1:21</span>
           </div>
@@ -21,7 +21,7 @@ const MysteryCard = props => (
             <img src="https://d3el26csp1xekx.cloudfront.net/static/assets/video-cards-2.0/message-circle-white.svg" alt="comment icon"/>
           </span>
           <span className="like-button">
-            <img src="https://d3el26csp1xekx.cloudfront.net/static/assets/video-cards-2.0/heart-white.svg" alt="like icon" class="_10uGAZviFOXWRnPf7dN4gH _2IOBfkgAx56DsQoZe9MsC9" />
+            <img src="https://d3el26csp1xekx.cloudfront.net/static/assets/video-cards-2.0/heart-white.svg" alt="like icon" />
           </span>
         </div>
       </div>
